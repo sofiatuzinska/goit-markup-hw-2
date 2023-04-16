@@ -19,7 +19,6 @@
     --secondary-font: Roboto, sans-serif
 }
 
-
 .mail,
 .tel {
     font-family: var(--secondary-font);
@@ -44,7 +43,7 @@
         text-decoration: none;
 }
 
-
+/* body */
 body {
     font-family: Roboto, sasns-serif;
     color: var(--navy-blue);
@@ -142,9 +141,6 @@ font-family: 'Roboto';
     
 }
 
-
-
-/* MAIN */
 
 /* BUTTONS */
 .filter-list {

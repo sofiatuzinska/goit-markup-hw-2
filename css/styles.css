@@ -137,11 +137,11 @@ list-style-type: none;
  
 
 .navigation-list-item:hover {
-color: #404BBF
+color: var(--ocean);
 
 }
-..navigation-list-item:focus {
-    color: #404BBF
+.navigation-list-item:focus {
+    color: var(--ocean);
 }
 
 .address-list {
@@ -157,9 +157,7 @@ font-family: 'Roboto';
 
 
 /* BUTTONS */
-.filter-list {
-   
-}
+
 
 .button {
     color: var(--iris);

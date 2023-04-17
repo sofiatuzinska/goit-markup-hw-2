@@ -174,12 +174,15 @@ font-family: 'Roboto';
 
 
 .button {
-    color: var(--iris);
-     background-color: var(--cornflower);
-
+background-color: #F4F4FD;
+color: #4d5ae5;
     cursor: pointer;
-    font-family: inherit;  
-       
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
         border-radius: 4px;
         
@@ -187,8 +190,8 @@ font-family: 'Roboto';
 
 .button:hover,
 .button:focus {
-    background-color: var(--ocean);
-    color: var(--white);
+    background-color: #404BBF;
+    color: #FFFFFF;
 }
 
 .header-three {

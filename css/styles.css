@@ -210,7 +210,10 @@ letter-spacing: 0.04em
     color: #FFFFFF;
 }
 
-.button:hover,
+.button:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
 .button:focus {
     background-color: #404BBF;
     color: #FFFFFF;
@@ -235,7 +238,7 @@ color: #2e2f42;
 .text-index {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    
+
 }
 
 .main-header {
@@ -248,6 +251,34 @@ color: #2e2f42;
         letter-spacing: 0.02em;
         color: var(--white)
         
+}
+
+.section-three {
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2e2f42;
+
+}
+
+.section-four {
+    background-color: #F4F4FD;
+}
+
+.our-team {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+
+}
+
+.section-four-list {
+    background-color: #FFFFFF;
 }
 
 /* FOOTER */

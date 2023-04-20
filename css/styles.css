@@ -283,6 +283,10 @@ color: #2e2f42;
 
 /* FOOTER */
 
+.footer-main {
+    background-color: #2e2f42;
+}
+
 .footer-body {
     color: var(--white);
 }

@@ -153,6 +153,11 @@ letter-spacing: 0.04em
     color: #FFFFFF;
 }
 
+.button-index:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
 .button:hover {
     background-color: #404BBF;
     color: #FFFFFF;

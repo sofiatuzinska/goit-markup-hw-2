@@ -248,12 +248,12 @@ color: #2e2f42;
 }
 
 .logo-item {
-
+color: #f4f4fd;
     font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    color: #f4f4fd;
+   
 
     line-height: 1.17;
     display: flex;
